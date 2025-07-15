@@ -1,0 +1,5 @@
+{
+  "name": "FIRE IT UP!",
+  "description": "A web-based application that helps users plan sustainable retirement withdrawals from a portfolio of assets that grow over time. It calculates the maximum safe inflation-adjusted annual withdrawal amount using Monte Carlo simulations.",
+  "requestFramePermissions": []
+}
