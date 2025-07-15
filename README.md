@@ -2,7 +2,7 @@
 
 Welcome to **FIRE IT UP!**, a web-based application designed to help you plan for Financial Independence, Retire Early (FIRE) by calculating a sustainable, inflation-adjusted annual withdrawal from your investment portfolio.
 
- <!-- Placeholder: Replace with an actual screenshot of the app -->
+Project URL: https://fire-it-up.netlify.app/
 
 ---
 
@@ -13,6 +13,7 @@ This tool goes beyond simple retirement calculators that use a fixed annual retu
 The primary goal is to calculate the **maximum safe annual withdrawal amount** that your portfolio can sustain, ensuring the funds last until your specified life expectancy with a high degree of confidence (e.g., a 90% success rate).
 
 ### How It Works
+
 1.  **Input Your Data**: Define your investment assets (principal, expected return, risk level) and global settings (retirement age, life expectancy, estimated inflation).
 2.  **Run the Simulation**: The app runs thousands of unique retirement simulations. In each run, annual market returns for your assets are randomized based on their specified risk profiles.
 3.  **Analyze the Outcomes**: It calculates the highest possible annual withdrawal that doesn't deplete your portfolio before your target age in at least 90% of all simulated scenarios.
@@ -38,12 +39,12 @@ The primary goal is to calculate the **maximum safe annual withdrawal amount** t
 
 This project was built using modern web technologies with a focus on a clean, maintainable, and performant frontend.
 
--   **Framework**: [React](https://reactjs.org/)
--   **Language**: [TypeScript](https://www.typescriptlang.org/)
--   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
--   **Charting**: [Recharts](https://recharts.org/)
--   **State Management**: React Hooks (`useState`, `useEffect`, and custom hooks)
--   **Storage**: Browser `localStorage` API
+- **Framework**: [React](https://reactjs.org/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Charting**: [Recharts](https://recharts.org/)
+- **State Management**: React Hooks (`useState`, `useEffect`, and custom hooks)
+- **Storage**: Browser `localStorage` API
 
 ---
 
@@ -90,8 +91,8 @@ The project is organized into a modular component structure:
 
 **Jawad Shuaib**
 
--   Website: [j4wad.com](https://j4wad.com)
--   GitHub: [@jawadshuaib](https://github.com/jawadshuaib)
+- Website: [j4wad.com](https://j4wad.com)
+- GitHub: [@jawadshuaib](https://github.com/jawadshuaib)
 
 ---
 
